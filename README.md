@@ -6,10 +6,10 @@ This project focuses on predicting whether a given set of sonar data represents 
 
 ## Project Structure
 
-- **Notebook:** [Rock_Mine_Prediction.ipynb](link_to_your_notebook.ipynb)
+- **Notebook:** [Rock_Mine_Prediction.ipynb]
   - The primary notebook where data exploration, model development, and evaluation take place.
   
-- **Dataset:** [sonar_data.csv](link_to_your_dataset.csv)
+- **Dataset:** [sonar_data.csv]
   - The dataset used for training and testing the Logistic Regression model.
 
 ## Getting Started
