@@ -40,9 +40,6 @@ Copy code
 # Example Input Data
 input_data = (0.0286, 0.0453, ...)
 
-# Predicting
-prediction = model.predict(np.asarray(input_data).reshape(1, -1))
-
 # Displaying the Prediction
 if prediction[0] == 'R':
   print("The mineral is Rock")
